@@ -1,0 +1,121 @@
+{
+  "query": "HWUPKR0MPOU8FGXBT394",
+  "matchType": "lei",
+  "status": "found",
+  "statusMessage": "Profile found.",
+  "matchConfidence": "high",
+  "matchExplanation": "The LEI was given and exists in GLEIF. Wikidata item Q312 carries the same LEI (P1278).",
+  "name": "Apple Inc.",
+  "lei": "HWUPKR0MPOU8FGXBT394",
+  "legalName": "Apple Inc.",
+  "otherNames": [
+    {
+      "name": "Apple Computer, Inc.",
+      "type": "PREVIOUS_LEGAL_NAME",
+      "language": "en"
+    }
+  ],
+  "entityStatus": "ACTIVE",
+  "entityCategory": "GENERAL",
+  "registrationStatus": "ISSUED",
+  "leiLapsed": false,
+  "renewalOverdue": false,
+  "nextRenewalDate": "2027-03-08T17:27:20Z",
+  "initialRegistrationDate": "2012-06-06T15:53:00Z",
+  "lastUpdateDate": "2026-03-03T16:34:33Z",
+  "legalForm": {
+    "code": "H1UM",
+    "name": "For-Profit Corporation General Stock"
+  },
+  "jurisdiction": "US-CA",
+  "registrationAuthority": {
+    "id": "RA000598",
+    "name": "Business Entity Records",
+    "website": "https://businesssearch.sos.ca.gov/",
+    "entityId": "806592"
+  },
+  "legalAddress": {
+    "lines": [
+      "C/O C T Corporation System",
+      "330 N. Brand Blvd",
+      "Suite 700"
+    ],
+    "city": "Glendale",
+    "region": "US-CA",
+    "country": "US",
+    "postalCode": "91203",
+    "formatted": "C/O C T Corporation System, 330 N. Brand Blvd, Suite 700, 91203 Glendale, US-CA, US"
+  },
+  "headquartersAddress": {
+    "lines": [
+      "One Apple Park Way"
+    ],
+    "city": "Cupertino",
+    "region": "US-CA",
+    "country": "US",
+    "postalCode": "95014",
+    "formatted": "One Apple Park Way, 95014 Cupertino, US-CA, US"
+  },
+  "directParent": {
+    "lei": null,
+    "name": null,
+    "exception": "NATURAL_PERSONS"
+  },
+  "ultimateParent": {
+    "lei": null,
+    "name": null,
+    "exception": "NATURAL_PERSONS"
+  },
+  "successorLei": null,
+  "wikidataId": "Q312",
+  "wikidataLinkedBy": "lei",
+  "description": "American multinational technology company based in Cupertino, California",
+  "website": "https://apple.com/",
+  "industry": [
+    "software industry",
+    "consumer electronics industry",
+    "digital distribution"
+  ],
+  "inception": "1976-04-01",
+  "employees": {
+    "value": 164000,
+    "asOf": "2022"
+  },
+  "revenue": {
+    "amount": 416161000000,
+    "currency": "USD",
+    "asOf": "2025"
+  },
+  "stockExchanges": [
+    {
+      "exchange": "Nasdaq",
+      "ticker": "AAPL"
+    }
+  ],
+  "isin": [
+    "US0378331005"
+  ],
+  "ceo": "John Ternus",
+  "country": "United States",
+  "countryCode": "US",
+  "logoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Apple_logo_black.svg",
+  "social": {
+    "linkedin": "https://www.linkedin.com/company/apple",
+    "x": "https://x.com/Apple",
+    "facebook": "https://www.facebook.com/apple",
+    "instagram": "https://www.instagram.com/apple/",
+    "youtube": "https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw",
+    "github": "https://github.com/apple",
+    "tiktok": "https://www.tiktok.com/@apple"
+  },
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Apple_Inc.",
+  "candidates": [],
+  "warnings": [],
+  "sources": {
+    "gleif": "https://api.gleif.org/api/v1/lei-records/HWUPKR0MPOU8FGXBT394",
+    "wikidata": "https://www.wikidata.org/wiki/Q312"
+  },
+  "gleifDataDate": "2026-10-19T00:00:00Z",
+  "charged": true,
+  "checkedAt": "2026-10-19T09:21:49.223Z"
+}
