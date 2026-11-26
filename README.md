@@ -1,6 +1,6 @@
 # Company Profile from Wikidata + GLEIF (LEI)
 
-One structured profile per company name, LEI or Wikidata ID: legal identity, LEI status and renewal, parents, website, industry, size, revenue, listings, social links. Official open data (GLEIF + Wikidata, CC0), no key. Pay per profile found; not found and ambiguous are free.
+Looks up companies by name, LEI or Wikidata ID. Returns one profile per entry from GLEIF and Wikidata: legal name, LEI status, legal form, addresses, parents, website, industry, listings. Ambiguous names return candidates, not a guess. Not found and ambiguous are free. No financial statements.
 
 **▶ Run it on Apify Store: https://apify.com/far003/company-profile-lei-wikidata**
 
@@ -199,7 +199,7 @@ print(items)
 
 ## Pricing
 
-Pay per result — see the current price on the Store page.
+Pay per event, no subscription. The current price, and what is free, is on the [Apify Store page](https://apify.com/far003/company-profile-lei-wikidata).
 
 ## Data source & licence
 
